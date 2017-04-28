@@ -1,0 +1,17 @@
+Nale¿y utworzyæ bibliotekê, która bêdzie potrafi³a przetworzyæ w odpowiedni sposób plik p³aski.
+Plik p³aski bêdzie zawiera³ w liniach nieparzsytych nazwê algorytmu a w liniach parzystych wiersz,
+który nale¿y odpowiednio przetworzyæ.
+Po wykonaniu operacji wynik nale¿y zapisaæ do pliku.
+
+Przyk³adowa treœæ pliku p³askiego:
+
+SORT
+3 7 2 1 18
+REPLACE
+addaaddaaaad
+REVERSE
+12 -15 121
+
+Algorytm SORT sortuje rosn¹co liczby podane w wierszu.
+Algorytm REPLACE zwraca liczbê wyst¹pieñ pierwszego znaku.
+Algorytm REVERSE odwraca kolejnosc liczb znajduj¹cych siê w wierszu.
