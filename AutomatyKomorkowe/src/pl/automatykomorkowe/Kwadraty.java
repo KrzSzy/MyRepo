@@ -12,9 +12,9 @@ public class Kwadraty implements AutomatKomorkowy {
 		}
 				
 		if (liczbaZywychSasiadow < 1) return 2;
-        else if (liczbaZywychSasiadow < 3) return 1;
-        else if (liczbaZywychSasiadow < 5) return 0;
-        else return 2;
+        	else if (liczbaZywychSasiadow < 3) return 1;
+        	else if (liczbaZywychSasiadow < 5) return 0;
+        	else return 2;
 	}
 	
 	@Override
